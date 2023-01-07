@@ -19,6 +19,11 @@ concepts like :
     </ul>
 </div>
 <div>
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/74001727/211157397-12d96b39-e0fd-4d35-9549-28f01a0f4107.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/74001727/211157425-c6dd9e8a-a9e5-420a-bc28-49fd5be932ec.png">
+
+</div>
+<div>
     you can find the live site here:https://sangeetha-jula-quote-generator.netlify.app/
 </div>
 

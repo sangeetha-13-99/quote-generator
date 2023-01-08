@@ -8,7 +8,7 @@ const RandomAuthorQuoteDiv=styled.div`
         font-family: 'Poppins', sans-serif;
         font-weight:500px;
     }
-    height:80%;
+    height:75%;
     width:50%;
     margin:auto;
     overflow:auto;

@@ -15,9 +15,15 @@ const RoterLink=styled(Link)`
     justify-content:flex-end;
     padding:10px;
     color:${colors.black};
-    &:focus .rerun{
+    .rerun{
         transform:rotate(180deg);
         transition:transform 1s ease;
+    }
+    &:not(:active) .rerun{
+        display:block;
+        opacity:1;
+        transform:rotate(360deg);
+        transition:transform 2s ease;
     }
 `
 const Quote=styled.div`

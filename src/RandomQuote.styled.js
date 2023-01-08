@@ -6,7 +6,7 @@ const colors={
 }
 
 const QuoteDiv=styled.div`
-    height:80%;
+    height:75%;
     display:flex;
     justify-content:space-around;
     align-items:center;

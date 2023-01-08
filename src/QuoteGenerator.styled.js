@@ -21,18 +21,25 @@ const QuoteGeneratorDiv=styled.div`
 `;
 
 const Rerun=styled.div`
-    height:15%;
+    height:10%;
     text-align:end;
     margin:auto 20px;
 `;
 const Footer=styled.p`
-    position:fixed:
+    position:absolute;
     bottom:0;
+    left:50%;
+    transform:translate(-50%);
+    padding: 2% 0;
+    width: 100%;
     color:#828282;
     font-size:1rem;
     margin:0;
     span{
         font-weight:bold;
+    }
+    @media only screen and (max-width:599px){
+        padding: 5% 0;
     }
 `
 export {QuoteGeneratorDiv,Rerun,Footer};
